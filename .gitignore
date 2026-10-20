@@ -1,0 +1,25 @@
+
+# Folder lokal yang tidak diunggah
+/.vscode/
+/gsd/
+/data-out/
+
+# Notebook selain notebook final
+/uts.ipynb
+/uts_blm fix.ipynb
+/uts_retailrocket_2_1_2_2.ipynb
+/uts_retailrocket_neo4j.ipynb
+/analytics_2_2.ipynb
+/connect neo4j (1).ipynb
+/diagnosis_dan_pembanding.ipynb
+/import_retailrocket.ipynb
+
+# Arsip dataset jika folder asli sudah disertakan
+/retailrocket.zip
+
+# Cache Python dan Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# File rahasia
+.env
